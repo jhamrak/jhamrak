@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Flask project presenting my deep learning model in practice.
+- 🔭 I’m currently working on a Flask project to present my deep learning model in practice.
 - 🌱 I’m currently learning web development using Flask.
 - 👯 I’m looking to collaborate on any cool open-source project!
 - 📫 How to reach me: https://www.linkedin.com/in/jhamrak/
