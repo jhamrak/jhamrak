@@ -1,9 +1,4 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on a Flask project to present my deep learning model in practice.
-- 🌱 I’m currently learning Java to pass the Oracle Java 11 certification.
-- 👯 I’m looking to collaborate on any cool open-source project!
-- 📫 How to reach me: https://www.linkedin.com/in/jhamrak/
+📫 How to reach me: https://www.linkedin.com/in/jhamrak/
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jhamrak)](https://github.com/jhamrak/github-readme-stats)
 
